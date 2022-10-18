@@ -1,0 +1,51 @@
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: Azure;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    color: rgb(65, 58, 112);
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+}
+
+table {
+    border: 3px solid midnightblue;
+    margin: 0 auto;
+    width: 900px;
+}
+
+th {
+    background-color: skyblue;
+    color: white;
+    text-transform: uppercase;
+}
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+    color: red;
+}
+
+td {
+    border-top: 2px solid midnightblue;
+}
+
+td.value {
+    border-right: 2px solid midnightblue;
+}
+
+td.definition {
+    border-right: 2px solid midnightblue;
+}
